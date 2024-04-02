@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Arifur Rahman</h1>
-<h3 align="center">Self Learner</h3>
+# 💫 About Me:
+I'm currently learning Python
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arprahman&label=Profile%20views&color=0e75b6&style=flat" alt="arprahman" /> </p>
 
-- 🌱 I’m currently learning **Python**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ARPRAHMAN&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ARPRAHMAN&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARPRAHMAN&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 📫 How to reach me **arifurrahman05343@gmail.com**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=ARPRAHMAN&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arprahman&show_icons=true&locale=en&layout=compact" alt="arprahman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arprahman&" alt="arprahman" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
